@@ -1,5 +1,7 @@
 # get-fennec
 
+IMPORTANT: Development of this module has been stopped in favor of [get-firefox](https://www.npmjs.com/package/get-firefox)
+
 ## Installation
 
 Install this command by running `npm install -g get-fennec`
